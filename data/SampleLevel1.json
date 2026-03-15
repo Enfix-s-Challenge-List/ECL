@@ -2,16 +2,11 @@
     "id": 111328940,
     "name": "Session",
     "author": "zGytixss",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "creators": ["zGytixss"],
+    "verifier": "hextorus",
+    "verification": "https://youtu.be/ejwGJ3uEBno",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
+        
     ]
 }
