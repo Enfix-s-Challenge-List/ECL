@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/ZEznvABIGng",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "GD Enfix",
+            "link": "https://youtu.be/n1h7zEkeKaY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
